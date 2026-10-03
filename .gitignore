@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 开悟平台训练产物
+*.ckpt
+*.pkl
+*.pt
+*.pth
+log/
+logs/
+checkpoint/
+model_pool/
+train_log/
+
+# 系统
+.DS_Store
+Thumbs.db
